@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = [
     {name = "João Victor Canavarro",email = "jvcanavarro@gmail.com"},
-    {name = "Igor Matheus Moreira", email = "imatheus@gmail.com"}
+    {name = "Igor Matheus Moreira", email = "imatheus.sm@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"
